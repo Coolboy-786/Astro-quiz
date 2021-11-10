@@ -22,7 +22,7 @@ body{
      }
 }
 
-@media all and (max-width:470px) {
+@media all and (max-width:350px) {
   .start_btn,
   .quiz_box,
   .result_box{
@@ -30,7 +30,7 @@ body{
  }
 }
 
-@media all and (max-width:470px) {
+@media all and (max-width:350px) {
   .info_box{
     padding-left: 25px;
  }
